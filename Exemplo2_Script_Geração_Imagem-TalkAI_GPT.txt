@@ -1,0 +1,13 @@
+1. Primeiramente, abra o GPT e inicie uma nova conversa.
+
+2. Comece o script com uma introdução sobre o tema da imagem que deseja criar, como por exemplo: "Hoje vamos falar sobre IA generativa e os cuidados necessários na era digital."
+
+3. Em seguida, descreva o que você gostaria que a imagem representasse, como por exemplo: "Vamos representar uma inteligência artificial criando arte de forma autônoma, enquanto as pessoas ao redor observam com admiração."
+
+4. Explique os elementos que devem estar presentes na imagem, como cores, personagens, cenário, etc.
+
+5. Inclua uma mensagem sobre os cuidados necessários ao lidar com IA generativa, como a importância de supervisionar e controlar seu uso para evitar consequências indesejadas.
+
+6. Finalize o script agradecendo e pedindo para que o GPT crie a imagem de acordo com suas instruções.
+
+7. Aguarde a resposta do GPT com a imagem gerada e, se necessário, faça ajustes ou solicite uma nova versão.
