@@ -38,8 +38,8 @@ O presente projeto traz consigo alguns exemplos de possbilidades com a utilizaç
 ## 🧐 Processo de Criação
 O processo de criação de conteúdo em primeiro momento se deu com o acesso ao domínio do ChatGPT TalkAI online utilizando o navegador Edge e a ferramenta de busca Bing da Microsoft. 
 
-No exemplo 1 foi demonstrado como gerar um texto com o auxílio de um script humano ao Chat GPT da TalkAI para gerar um texto sobre ####"inteligência artificial generativa e os cuidados necessários na era digital"
-No Exemplo 2 foi demontrado como gerar uma imagem com o auxílio de um script humano ao Chat GPT da TalkAI para gerar um texto sobre ####"inteligência artificial generativa e os cuidados necessários na era digital"
+No exemplo 1 foi demonstrado como gerar um texto com o auxílio de um script humano ao Chat GPT da TalkAI para gerar um texto sobre "inteligência artificial generativa e os cuidados necessários na era digital"
+No Exemplo 2 foi demontrado como gerar uma imagem com o auxílio de um script humano ao Chat GPT da TalkAI para gerar um texto sobre "inteligência artificial generativa e os cuidados necessários na era digital"
 
 
 Ao final do processo foram gerados textos e imagens que representam o processso de criação de conteúdo de modo intuitivo 
