@@ -33,7 +33,7 @@ O presente projeto traz consigo alguns exemplos de possbilidades com a utilizaç
 - Link de acesso fácil: [TalkAI GPT](https://talkai.info/pt/)
 
 • Humata GPT
-- Link de acesso fácil: [Humata GPT]([https://talkai.info/pt/](https://www.humata.ai/))
+- Link de acesso fácil: [Humata GPT]([[https://talkai.info/pt/](https://www.humata.ai/)](https://www.humata.ai/))
 
 ## 🧐 Processo de Criação
 O processo de criação de conteúdo em primeiro momento se deu com o acesso ao domínio do ChatGPT TalkAI online utilizando o navegador Edge e a ferramenta de busca Bing da Microsoft. 
